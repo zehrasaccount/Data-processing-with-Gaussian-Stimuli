@@ -1,3 +1,4 @@
+Based on: http://www.cns.nyu.edu/malab/bayesianbook.html
 # Data-processing-with-Gaussian-Stimuli
 2) Problem 4.15 from the text: Submit a Colab notebook.
 Assume a Gaussian stimulus distribution p(s) with mean 20 and standard deviation 4; this also serves as the prior distribution. The measurement distribution p(x|s) is Gaussian with a standard deviation σ = 5.
